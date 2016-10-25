@@ -13,5 +13,10 @@ webpack ant  watch
     2npm install
 ###2:启动项目
     2npm start
+    
+ ###预览：
+ ![image](http://120.26.240.207/node/imgs/ant-demo.png)
+ ###文件目录结构：
+ ![image](http://120.26.240.207/node/imgs/file-dir.png)
 
 
