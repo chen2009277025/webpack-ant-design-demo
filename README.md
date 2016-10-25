@@ -15,6 +15,7 @@ webpack ant  watch
     2npm start
     
 ###预览：
+
 ![image](http://www.highfe.com/node/imgs/ant-demo.png)
 ###文件目录结构：
 ![image](http://www.highfe.com/node/imgs/file-dir.png)
