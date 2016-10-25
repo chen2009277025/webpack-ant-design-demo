@@ -1,0 +1,44 @@
+
+.normal {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 90%;
+}
+
+.head {
+  margin-bottom: 20px;
+  background: cadetblue;
+  height: 80px;
+  padding: 8px;
+  color: #fff;
+}
+
+.content {
+  flex: 1;
+  display: flex;
+}
+
+.side {
+  padding: 8px;
+  width: 20%;
+  min-width: 200px;
+  background: #fafafa;
+  margin-right: 20px;
+}
+
+.main {
+  padding: 8px;
+  flex: 1 0 auto;
+}
+
+.foot {
+  margin-top: 20px;
+  background: greenyellow;
+  padding: 8px;
+}
+
+#main-container{
+  width: 90%;
+  margin: 0 auto;
+}

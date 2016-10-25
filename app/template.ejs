@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>
+    <%= htmlWebpackPlugin.options.title || '上单'%>
+  </title>
+
+</head>
+
+<body>
+  <div id="main-container"></div>
+  <% if (htmlWebpackPlugin.options.extra&&htmlWebpackPlugin.options.extra.js) {%>
+    <% for(var i = 0;i < htmlWebpackPlugin.options.extra.js.length;i++){ %>
+      <script src="<%= htmlWebpackPlugin.options.extra.js[i] %>"></script>
+    <% } %>
+  <% } %>
+</body>
+<script src="//cdn.bootcss.com/jquery/2.2.3/jquery.min.js"></script>
+</html>

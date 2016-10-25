@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "text": "首页",
+            "url": "/test.html",
+            "iconType":"appstore-o"
+        },
+        {
+            "id": 3,
+            "text": "博客",
+            "url": "/blog",
+            "iconType":"file-text"
+        },
+        {
+            "id": 2,
+            "text": "关于",
+            "url": "/about",
+            "iconType":"tags-o"
+        },
+        {
+            "id": 5,
+            "text": "错误页样例",
+            "url": "/404",
+            "iconType":"exclamation-circle"
+         }
+    ]
+}
