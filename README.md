@@ -1,4 +1,5 @@
-# -webpack-ant-design-demo
+webpack ant  watch
+# webpack-ant-design-demo
 ####webpack-ant-design-demo webpack ant design的样例
 ####这是一个不同于官网给出的案例的webpack+ant的样例
     1.利用了webpack-dev-server方便本地的开发
